@@ -1636,6 +1636,18 @@ Blog Default
   height: 54px;
 }
 
+.pre-content {
+  color: #0092db;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.post-pre-content {
+  color: #0092db;
+  font-weight: 700;
+  font-size: 17px;
+}
+
 .post-title {
   margin-top: 0;
 }
